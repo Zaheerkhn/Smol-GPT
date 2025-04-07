@@ -25,9 +25,11 @@ This project demonstrates the core building blocks of GPT models such as:
 
 ```
 .
-├── input.txt              # Training corpus (e.g. Shakespeare, song lyrics, etc.)
-├── final_gpt.py          # Final model and training logic
-└── README.md             # Project documentation
+├── input.txt                       # Training corpus (e.g. Shakespeare, song lyrics, etc.)
+├── data_preprocessing.ipynb        # logic
+├── bigram.py                       # Simple bigram model
+├── final_gpt.py                    # Final model and training logic
+└── README.md                       # Project documentation
 ```
 
 ---
